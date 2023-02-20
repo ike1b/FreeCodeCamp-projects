@@ -32,10 +32,10 @@ h1, h2, p {
 }
 
 img {
+  margin-top: -25px;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: -25px;
 }
 
 hr {
